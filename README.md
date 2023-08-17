@@ -1,8 +1,6 @@
-# H45\_Backend\_Test
+# DRF\_Backend\_
 
 ## Introduction:
-
-This project is a company given test.
 
 The Project is a **Django** project which is using the **Django Rest Framework**. This Django REST API project uses Postgres for CRUD operations and django-filter for filtering fields. The project also uses django-cors-headers to handle CORS and django-rest-framework for building REST APIs.
 
